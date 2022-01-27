@@ -26,10 +26,10 @@ Calculs lexicométriques réalisés :
 
 - Répartition des termes par :
 
-  - titre de document
-  - année de publication
-  - éditeur de document
-  - auteur de document
+    - titre de document
+    - année de publication
+    - éditeur de document
+    - auteur de document
   
  - Fréquences des co-occurrences du terme dans une fenêtre donnée :
 
