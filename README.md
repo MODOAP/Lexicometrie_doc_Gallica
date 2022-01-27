@@ -18,22 +18,24 @@ Ces résultats peuvent ensuite être représentés dans une interface Web (voir 
 
 Calculs lexicométriques réalisés :
 
-Nombre total de mots du corpus
+- Nombre total de mots du corpus
 
-Compte des occurrences de chaque terme
+- Compte des occurrences de chaque terme
 
-Répartition des termes dans le corpus
+- Répartition des termes dans le corpus
 
-Répartition des termes par :
+- Répartition des termes par :
 
-- titre de document
-- année de publication
-éditeur de document
-auteur de document
-Fréquences des co-occurrences du terme dans une fenêtre donnée :
+  - titre de document
+  - année de publication
+  - éditeur de document
+  - auteur de document
+  
+ - Fréquences des co-occurrences du terme dans une fenêtre donnée :
 
-pour toutes les co-occurrences
-pour les noms uniquement
-pour les verbes uniquement
-pour les adjectifs uniquement
-Concordances des occurrences de chaque terme dans une fenêtre donnée
+  - pour toutes les co-occurrences
+  - pour les noms uniquement
+  - pour les verbes uniquement
+  - pour les adjectifs uniquement
+  
+- Concordances des occurrences de chaque terme dans une fenêtre donnée
